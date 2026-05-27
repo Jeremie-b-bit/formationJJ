@@ -1,0 +1,106 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background: #f4f4f4;
+    color: #333;
+}
+
+/*navbar*/
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background: #0d6efd;
+    color: white;
+
+    padding: 20px 50px;
+}
+
+
+.racine{
+    background: rgb(42, 95, 240);
+    display: flex;
+    justify-content: space-between;
+}
+
+.display1{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    list-style: none;
+}
+.div1{
+    color: white;
+    position:absolute;
+    left: 50px;
+    
+}
+a{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   left: 500px;
+}
+/*h4{
+    color: white;
+    left: 300px;
+}
+*/
+.nav1{
+
+    left: 750px;
+    font-size: 20px;
+}
+.clic{
+    background:  rgb(42, 95, 240);
+    justify-content: center;
+    display:flex;
+    padding: 10px ;
+    border: none;
+    margin:0 auto;
+    border-radius:  8px;
+    font-size: 15px;
+    transform: translate(-1px);
+
+}
+
+/* effet de la touche*/
+
+.clic:hover{
+    background-color: rgb(15, 228, 164);
+    transform: scale(1.05); /*pour grossir un peu le bouton*/
+    box-shadow: 0 5px 15px rgba(red, green, blue, alpha);/* ombre*/
+}
+
+.b{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+
+    
+}
+.para{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titre{
+    justify-content: center;
+    color: white;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sousT{
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}

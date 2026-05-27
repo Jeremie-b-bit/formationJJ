@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:center, 12px;
+}
+body{
+    background:burlywood;
+}
+
+.box1{
+    color: red;
+    border-radius: 30%;  
+} 
+.position1{
+    position: absolute;
+    left: 550px;
+}
+
+.jjjj{
+display: flex;
+padding-top: 20px;
+margin: 20px;
+}
+
+.jjj{
+    border: solid 5px blue;
+    margin: 20px;
+    border-radius: 10px;
+}
+

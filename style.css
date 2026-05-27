@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(43, 25, 5);
+}
+.jero{
+    background-color: brown;
+}
+h1{
+    color: cadetblue;
+}
+p{
+    color: blue;
+}
+ul{
+    font: 19;
+    color:rgb(25, 160, 47)
+}
+.image{
+    background-image: -webkit-image-set("image/orange.jpg.jpg");
+    width:200px;
+    height:200px;
+}

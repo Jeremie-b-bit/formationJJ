@@ -1,0 +1,27 @@
+
+       .container{
+            height: calc(100 - 60px);
+            display : flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        body{
+            background-color: rgb(241, 243, 242);
+        }
+        h1{
+            color:bisque;
+        }
+        .jaune{
+            color:rgb(211, 111, 18)
+        }
+        .navbar{
+            background-color: rgb(145, 255, 0);
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        p{
+            align-items: center;
+        }
